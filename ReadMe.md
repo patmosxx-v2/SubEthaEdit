@@ -29,7 +29,7 @@ You should be all set to open up the shared workspace at `SubEthaEdit.xcworkspac
 
 Please read [contributing](Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-For general guidance on what is should/ and isn't shouldn't be SubEthaEdit, please refere to the [application definintion document](ApplicationDefinition.md).
+For general guidance on what is should/ and isn't shouldn't be SubEthaEdit, please refer to the [application definintion document](ApplicationDefinition.md).
 
 ## Active contributors
 
@@ -57,7 +57,7 @@ This project is distributed under the MIT License - see the [LICENSE.txt](LICENS
 
 ## Related Repositories
 
-* `TCMPortMapper.framework` is built from [monkeydom/TCMPortMapper](https://github.com/monkeydom/ObjectiveTOML)
+* `TCMPortMapper.framework` is built from [monkeydom/TCMPortMapper](https://github.com/monkeydom/TCMPortMapper)
 * `tomlutil` is used from [monkeydom/ObjectiveTOML](https://github.com/monkeydom/ObjectiveTOML)
 * `Sparkle.framework` is built from [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle/tree/ui-separation-and-xpc) - the ui-separation-and-xpc branch.
 
